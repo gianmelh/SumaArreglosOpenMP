@@ -1,4 +1,4 @@
-/*******************************************************
+/*********************************************************
  * Nombre: Gianmel Joannelly Hernández Tosta
  * Matrícula: A01795919
  * Materia: Cómputo en la Nube
@@ -6,7 +6,7 @@
  * Descripción:
  *   Programa que realiza la suma de dos arreglos utilizando
  *   programación paralela con la librería OpenMP.
- *******************************************************/
+ *********************************************************/
 
  // ==============================
 // Inclusión de librerías
